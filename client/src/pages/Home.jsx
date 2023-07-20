@@ -22,7 +22,7 @@ const Home = () => {
                         <motion.div {...headTextAnimation}>
                             <h1 className="head-text">
                                 LET'S <br className="xl:block hidden" />
-                                DO IT.
+                                CREATE.
                             </h1>
                         </motion.div>
                         <motion.div
@@ -37,7 +37,7 @@ const Home = () => {
                             </p>
                             <CustomButton
                                 type="filled"
-                                title="Customize It"
+                                title="Customize"
                                 handleClick={() => (state.intro = false)}
                                 customStyles="w-fit px-4 py-2.5 font-bold text-sm"
                             />

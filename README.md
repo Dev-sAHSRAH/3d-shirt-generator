@@ -9,7 +9,7 @@ In the client:
 In the sever:
 `OPENAI_API_KEY = <YOUR_API_KEY>`
 
-3. `npm i` in both client and server folders
-4. `npm start` in the server
-5. `npm run dev` in the client
+2. `npm i` in both client and server folders
+3. `npm start` in the server
+4. `npm run dev` in the client
 
